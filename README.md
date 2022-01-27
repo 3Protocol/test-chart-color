@@ -1,4 +1,4 @@
-# test chart - color
+# test charts
 
 ### License
 
